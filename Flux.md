@@ -1,5 +1,6 @@
 <h1 align="center">GENERAL INFORMATION</h1>
--[HuggingFace Documentation](https://huggingface.co/docs/diffusers/main/en/index)
+
+[HuggingFace Documentation](https://huggingface.co/docs/diffusers/main/en/index)
 
 
 
